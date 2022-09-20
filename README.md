@@ -1,1 +1,3 @@
 # gitjenkinsintergation
+git clone
+github
